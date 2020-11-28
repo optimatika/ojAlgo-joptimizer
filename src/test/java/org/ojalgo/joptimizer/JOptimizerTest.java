@@ -53,6 +53,7 @@ public class JOptimizerTest {
      * @throws JOptimizerException
      */
     @Test
+    @Disabled
     public void testQCQP() throws JOptimizerException {
 
         // Objective function
